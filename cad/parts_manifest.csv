@@ -1,0 +1,71 @@
+part_name,file,status
+01_Chassis_160x220x3,01_Chassis_160x220x3.step,custom concept; dimensions unverified
+Motor_Reference_Front_L,Motor_Reference_Front_L.step,hardware reference or placeholder; not a print file
+Motor_Reference_Rear_L,Motor_Reference_Rear_L.step,hardware reference or placeholder; not a print file
+Motor_Reference_Front_R,Motor_Reference_Front_R.step,hardware reference or placeholder; not a print file
+Motor_Reference_Rear_R,Motor_Reference_Rear_R.step,hardware reference or placeholder; not a print file
+Mecanum_Wheel_Hub_Front_L,Mecanum_Wheel_Hub_Front_L.step,hardware reference or placeholder; not a print file
+Roller_Front_L_01,Roller_Front_L_01.step,hardware reference or placeholder; not a print file
+Roller_Front_L_02,Roller_Front_L_02.step,hardware reference or placeholder; not a print file
+Roller_Front_L_03,Roller_Front_L_03.step,hardware reference or placeholder; not a print file
+Roller_Front_L_04,Roller_Front_L_04.step,hardware reference or placeholder; not a print file
+Roller_Front_L_05,Roller_Front_L_05.step,hardware reference or placeholder; not a print file
+Roller_Front_L_06,Roller_Front_L_06.step,hardware reference or placeholder; not a print file
+Roller_Front_L_07,Roller_Front_L_07.step,hardware reference or placeholder; not a print file
+Roller_Front_L_08,Roller_Front_L_08.step,hardware reference or placeholder; not a print file
+Roller_Front_L_09,Roller_Front_L_09.step,hardware reference or placeholder; not a print file
+Roller_Front_L_10,Roller_Front_L_10.step,hardware reference or placeholder; not a print file
+Mecanum_Wheel_Hub_Rear_L,Mecanum_Wheel_Hub_Rear_L.step,hardware reference or placeholder; not a print file
+Roller_Rear_L_01,Roller_Rear_L_01.step,hardware reference or placeholder; not a print file
+Roller_Rear_L_02,Roller_Rear_L_02.step,hardware reference or placeholder; not a print file
+Roller_Rear_L_03,Roller_Rear_L_03.step,hardware reference or placeholder; not a print file
+Roller_Rear_L_04,Roller_Rear_L_04.step,hardware reference or placeholder; not a print file
+Roller_Rear_L_05,Roller_Rear_L_05.step,hardware reference or placeholder; not a print file
+Roller_Rear_L_06,Roller_Rear_L_06.step,hardware reference or placeholder; not a print file
+Roller_Rear_L_07,Roller_Rear_L_07.step,hardware reference or placeholder; not a print file
+Roller_Rear_L_08,Roller_Rear_L_08.step,hardware reference or placeholder; not a print file
+Roller_Rear_L_09,Roller_Rear_L_09.step,hardware reference or placeholder; not a print file
+Roller_Rear_L_10,Roller_Rear_L_10.step,hardware reference or placeholder; not a print file
+Mecanum_Wheel_Hub_Front_R,Mecanum_Wheel_Hub_Front_R.step,hardware reference or placeholder; not a print file
+Roller_Front_R_01,Roller_Front_R_01.step,hardware reference or placeholder; not a print file
+Roller_Front_R_02,Roller_Front_R_02.step,hardware reference or placeholder; not a print file
+Roller_Front_R_03,Roller_Front_R_03.step,hardware reference or placeholder; not a print file
+Roller_Front_R_04,Roller_Front_R_04.step,hardware reference or placeholder; not a print file
+Roller_Front_R_05,Roller_Front_R_05.step,hardware reference or placeholder; not a print file
+Roller_Front_R_06,Roller_Front_R_06.step,hardware reference or placeholder; not a print file
+Roller_Front_R_07,Roller_Front_R_07.step,hardware reference or placeholder; not a print file
+Roller_Front_R_08,Roller_Front_R_08.step,hardware reference or placeholder; not a print file
+Roller_Front_R_09,Roller_Front_R_09.step,hardware reference or placeholder; not a print file
+Roller_Front_R_10,Roller_Front_R_10.step,hardware reference or placeholder; not a print file
+Mecanum_Wheel_Hub_Rear_R,Mecanum_Wheel_Hub_Rear_R.step,hardware reference or placeholder; not a print file
+Roller_Rear_R_01,Roller_Rear_R_01.step,hardware reference or placeholder; not a print file
+Roller_Rear_R_02,Roller_Rear_R_02.step,hardware reference or placeholder; not a print file
+Roller_Rear_R_03,Roller_Rear_R_03.step,hardware reference or placeholder; not a print file
+Roller_Rear_R_04,Roller_Rear_R_04.step,hardware reference or placeholder; not a print file
+Roller_Rear_R_05,Roller_Rear_R_05.step,hardware reference or placeholder; not a print file
+Roller_Rear_R_06,Roller_Rear_R_06.step,hardware reference or placeholder; not a print file
+Roller_Rear_R_07,Roller_Rear_R_07.step,hardware reference or placeholder; not a print file
+Roller_Rear_R_08,Roller_Rear_R_08.step,hardware reference or placeholder; not a print file
+Roller_Rear_R_09,Roller_Rear_R_09.step,hardware reference or placeholder; not a print file
+Roller_Rear_R_10,Roller_Rear_R_10.step,hardware reference or placeholder; not a print file
+02_Chest_Panel_140x110x3,02_Chest_Panel_140x110x3.step,custom concept; dimensions unverified
+03_Display_Bezel_125x85_Window110x70,03_Display_Bezel_125x85_Window110x70.step,custom concept; dimensions unverified
+Display_5inch_Reference,Display_5inch_Reference.step,hardware reference or placeholder; not a print file
+04_Neck_Base_Plate_50x35x4,04_Neck_Base_Plate_50x35x4.step,custom concept; dimensions unverified
+05_Single_Concept_Gusset_4mm,05_Single_Concept_Gusset_4mm.step,custom concept; dimensions unverified
+06_Hollow_Head_80x40x55_Wall3_OpenRear,06_Hollow_Head_80x40x55_Wall3_OpenRear.step,custom concept; dimensions unverified
+Camera_Aperture_Planning_Disc_D20,Camera_Aperture_Planning_Disc_D20.step,hardware reference or placeholder; not a print file
+Camera_Lens_Reference,Camera_Lens_Reference.step,hardware reference or placeholder; not a print file
+07_Pi_Tray_100x65x3,07_Pi_Tray_100x65x3.step,custom concept; dimensions unverified
+Pi_Tray_Standoff_-44_-52.0,Pi_Tray_Standoff_-44_-52.0.step,custom concept; dimensions unverified
+Pi_Tray_Standoff_-44_2.0,Pi_Tray_Standoff_-44_2.0.step,custom concept; dimensions unverified
+Pi_Tray_Standoff_44_-52.0,Pi_Tray_Standoff_44_-52.0.step,custom concept; dimensions unverified
+Pi_Tray_Standoff_44_2.0,Pi_Tray_Standoff_44_2.0.step,custom concept; dimensions unverified
+Pi5_Board_Envelope_85x56,Pi5_Board_Envelope_85x56.step,hardware reference or placeholder; not a print file
+Pi5_HeatSink_Envelope,Pi5_HeatSink_Envelope.step,hardware reference or placeholder; not a print file
+08_Battery_Pack_Envelope_75x40x24,08_Battery_Pack_Envelope_75x40x24.step,hardware reference or placeholder; not a print file
+09_Obstacle_Sensor_Front_Reference,09_Obstacle_Sensor_Front_Reference.step,hardware reference or placeholder; not a print file
+Ultrasonic_Transducer_-12,Ultrasonic_Transducer_-12.step,hardware reference or placeholder; not a print file
+Ultrasonic_Transducer_12,Ultrasonic_Transducer_12.step,hardware reference or placeholder; not a print file
+10_Neck_Pan_Axis_Bearing_Concept,10_Neck_Pan_Axis_Bearing_Concept.step,hardware reference or placeholder; not a print file
+Neck_Pan_Axis_Placeholder,Neck_Pan_Axis_Placeholder.step,hardware reference or placeholder; not a print file
