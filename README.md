@@ -26,3 +26,4 @@ The 6 A combined motor stall estimate exceeds the selected motor regulator's nom
 Files and verification
 The package includes the assembly, 70 individual STEP exports, the latest BOM snapshot, a wiring draft, starter drive firmware and submission checklist. All individual STEP exports were reimported and checked for solid validity and retained volume. Desktop controller tests passed; no electrical, mechanical or on-robot verification has been performed.
 No demo video or final product photos are available because this is currently a design project. The supplied submission rules require those additional items for a build submission.
+View my RoverBuddy X1 - Smart Robot CAD Design https://cad.onshape.com/documents/fd590e89596c63c0ac852286/w/c92fb01b4b135c635f1b89a3/e/b49023ef8fd9ab249f8c7aa4
